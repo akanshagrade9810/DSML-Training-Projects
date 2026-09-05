@@ -43,12 +43,8 @@ The main objectives of this project are:
 ```text
 Exploratory-Data-Analysis-on-India-s-COVID-19-Data/
 │
-├── COVID-19_Dataset.csv
+├── COVID-19.csv
 │
-├── DSML_Mini_Project_1.ipynb
-│
-├── .gitignore
-│
-├── pyvenv.cfg
+├── Mini_Project.ipynb
 │
 └── README.md
